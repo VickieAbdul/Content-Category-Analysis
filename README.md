@@ -49,6 +49,7 @@ The Analytics team - Who is on the team?
 Process - How was the analysis completed?
 
 
+
 The conclusion:
 
 Posts about animals usually have more positive reactions, this shows that most of the people easily relate with such contents.
