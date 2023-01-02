@@ -59,5 +59,5 @@ Other categories that have the potential of experiencing a massive boost in  aud
 
 
 NB:
-The dataset and company used in this project are fictional. The project was from the Accenture virtual internship experience program on the forage platform.
+The dataset and company used in this project are fictional. The project was from the Accenture virtual internship experience program on the forage platform which I participated in.
 The social buzz company logo template was downloaded from @DesignEvo.com
