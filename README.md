@@ -1,3 +1,7 @@
+Note: The dataset and company used for this project were fabricated and was to be used by participants of the Accenture Data Analytics virtual internship experience on the Forage platform (www.theforage.com). I was a participant of this program.
+The social buzz company logo template was downloaded from @DesignEvo.com, and designed by me.
+
+
 # Content-Category-Analysis
 
 Client name: Social Buzz
@@ -55,9 +59,3 @@ The conclusion:
 Posts about animals usually have more positive reactions, this shows that most of the people easily relate with such contents.
 
 Other categories that have the potential of experiencing a massive boost in  audience engagement are “healthy eating”, “Science”, and “Technology”. Followers' interests on these topics can be leveraged on by working with experts in those fields to bring originality to the contents.
-
-
-
-NB:
-The dataset and company used in this project are fictional. The project was from the Accenture virtual internship experience program on the forage platform which I participated in.
-The social buzz company logo template was downloaded from @DesignEvo.com
