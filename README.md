@@ -14,7 +14,7 @@ Location of HQ: San Francisco
 
 Number of employees: 250
 
-Client background:
+### Client background:
 
 Social Buzz is a social media and content creation company that has gained popularity over the years. They emphasize their content by keeping all users anonymous, only tracking user reactions on every piece of content. There are over 100 ways that users can react to content, spanning beyond the traditional reactions of likes, dislikes, and comments. This ensures that trending content, as opposed to individual users, is at the forefront of user feeds.
 
@@ -24,7 +24,7 @@ Due to their rapid growth and digital nature of their core product, the amount o
 
 The project was tackled by breaking it down into four tasks.
 
-Task 1
+### Task 1
 
 A brief from the client was read to:
 
@@ -32,15 +32,15 @@ Understand the client and business problem at hand.
 Identify the requirements that need to be delivered for this project.
 Identify which tasks you should focus on as a Data Analyst.
 
-Task 2
+### Task 2
 
 From the 7 datasets given, the relevant datasets useful for the project were cleaned, and a model was created to combine the them. The relevant datasets were the "reactions", "content" and "reaction types" tables. The model creation was done in excel using the power query.
 
-Task 3
+### Task 3
 
 Pivot tables were created for the analysis and an interactive dashboard was used for the visualization using excel.
 
-Task 4
+### Task 4
 
 The presentation structure was planned to ensure the presentation answered the right questions. This was done on power point.
 
@@ -54,7 +54,7 @@ Process - How was the analysis completed?
 
 
 
-The conclusion:
+### The conclusion:
 
 Posts about animals usually have more positive reactions, this shows that most of the people easily relate with such contents.
 
